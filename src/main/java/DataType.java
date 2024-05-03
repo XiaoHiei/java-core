@@ -32,8 +32,6 @@ public class DataType {
         Gender gender = Gender.Male;
         System.out.println("Gender = " + gender);
 
-        Gender gender = Gender.Female;
-        System.out.println("Gender = " + gender);
 
         // Class & Object
         Cosplay cosplay1 = new Cosplay();
